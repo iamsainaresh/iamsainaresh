@@ -1,16 +1,13 @@
-## Hi there 👋
+##Sai Naresh Padakanti
+👋 Hi there! I'm Sai Naresh Padakanti, currently in my final year of B.Tech, specializing in Electronics and Communication Engineering (ECE).
 
-<!--
-**iamsainaresh/iamsainaresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 #Skills:
 
-Here are some ideas to get you started:
+MATLAB
+C
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 #Achievements:
+
+Secured an All India Rank (AIR) of 4894 in the GATE'24 exam on my first attempt during my third year.
+Only GOVT School Student of A.P. to Qualify NTSE exam in 2019
