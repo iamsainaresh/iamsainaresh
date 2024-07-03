@@ -4,6 +4,8 @@
 
 - 🔧 **Skills**:
   - MATLAB
+  - Verilog
+  - Arduino
   - C
   - Python
 
