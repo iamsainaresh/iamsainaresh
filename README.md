@@ -1,14 +1,30 @@
-# Sai Naresh Padakanti
+# Padakanti Sai Naresh
 
-👋 Hi there! I'm Sai Naresh Padakanti, currently in my final year of B.Tech, specializing in Electronics and Communication Engineering (ECE).
+### Hi there, I'm Sai Naresh👋
 
-- 🔧 **Skills**:
-  - Verilog
-  - Python
-  - Matlab
-  - Arduino
-  - C
+🎓 **Currently Pursuing:**
+Final year B.Tech in Electronics and Communication Engineering (ECE)
 
-- 🎓 **Achievements**:
-  - Secured an All India Rank (AIR) of 4894 in the GATE'24 exam on my first attempt during my third year.
-  - Only GOVT School Student of A.P. to Qualify NTSE exam in 2019
+🔧 **Skills:**
+
+- Verilog
+- Matlab
+- Arduino
+- Python
+- C
+
+🌟 **Achievements:**
+
+- GATE Rank: 4894 (3rd year of BTech)
+- NTSE Qualified (Class X)
+
+🌐 **Interests:**
+
+- VLSI Front End
+- Wireless Communications
+
+📫 **Contact:**
+
+LinkedIn: [Sai Naresh Padakanti](https://www.linkedin.com/in/sai-naresh-padakanti/)
+
+Feel free to connect with me!
